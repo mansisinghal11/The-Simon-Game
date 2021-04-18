@@ -5,3 +5,7 @@ Simon is a game of memory skill. The website creates a series of tones and light
 
 Gameplay:
 The game has four coloured buttons, each producing a particular tone when it is pressed. A round in the game consists of the homepage lighting up one or more buttons in a random order, after which the player must reproduce that order by pressing the buttons. As the game progresses, the number of buttons to be pressed increases.
+
+![simon](https://user-images.githubusercontent.com/55007377/115151374-36305400-a08a-11eb-918b-7d3509bb804d.PNG)
+
+
